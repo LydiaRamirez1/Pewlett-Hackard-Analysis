@@ -10,6 +10,9 @@ Senior engineers are the title that needs the most people to replace those retir
 
 ## Summary
 ![Mod7](https://user-images.githubusercontent.com/89167956/153650918-cb1d718e-2607-4ef3-862d-637b15a6d71d.PNG)
+
 This query tells us that there are 41,380 roles that need to be filled. The following table shows the amount of employees that are retiring in each role.
+
 ![Mod 7 pt2](https://user-images.githubusercontent.com/89167956/153650968-c9011a28-2177-4339-b42e-1d4ca4d36ab3.PNG)
+
 This table shows there are more than enough senior staff and engineers to mentor the next generation of employees.
